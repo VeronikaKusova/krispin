@@ -1,7 +1,7 @@
 from random import randrange,choice,randint
 
 
-jednoduche = ['hovnivál','tučňák','malá žába','červík','žížala','malý Totoro','maminka','děda','tatínek','babička','modrý Totoro','Pórek','meloun']
+jednoduche = ['hovnivál','tučňák','malá žába','červík','žížala','malý Totoro','maminka','děda','babička','modrý Totoro','Pórek','meloun']
 slozite=['velká žába','medvěd','tygr','straka','velký Totoro','eletroauto','lachtan','robotický vysavač','rádio','počítač','mercedes']
 
 odpoved = 0
