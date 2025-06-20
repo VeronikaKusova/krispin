@@ -144,7 +144,7 @@ while (chci_pokracovat == True):
         pochvala = choice(slozite)
         print('\n Hotovo. Jsi šikovný jako ' + pochvala + '.\n')
     else:
-        print('Zadej 1,2,3 nebo kvak...')
+        print('Zadej 1,2,3,4 nebo kvak...')
         zadani = input()
     print('\n ---------------------------------------------')
     print('Co budeme dělat dál? \n')
